@@ -57,7 +57,7 @@ AI-Browser-Agent
 
 * **Frontend (Extension):** JavaScript (Chrome Extension API)
 * **Backend:** Node.js + Express
-* **AI Model:** Google Gemini (gemini-1.5-flash)
+* **AI Model:** Google Gemini (gemini-3.1-flash-lite)
 * **Communication:** REST API
 
 ---
