@@ -1,6 +1,6 @@
-import { GoogleGenerativeAI } from "@google/generative-ai";
+rimport { GoogleGenerativeAI } from "@google/generative-ai";
 
-const genAI = new GoogleGenerativeAI("AIzaSyAJYXJ5DJ0L3a3JAlMo-xfmDfSvCbQDb4U");
+const genAI = new GoogleGenerativeAI("Enter Your Api Key");
 
 export async function runAgent(question, options) {
 
